@@ -1,10 +1,8 @@
 Phase 1 – Basics
 
 Props & State (useState)
-
-useEffect (lifecycle & API calls)
-
 Lists & FlatList
+useEffect (lifecycle & API calls)
 
 Touchable Components (TouchableOpacity, Button)
 
@@ -13,6 +11,9 @@ TextInput
 Modal & Alerts
 
 ActivityIndicator / Loader
+
+
+
 
 Phase 2 – Navigation & State Management
 
@@ -24,11 +25,17 @@ Context API / Redux
 
 AsyncStorage
 
+
+
+
 Phase 3 – APIs & Networking
 
 Fetch / Axios
 
 Error handling & validation
+
+
+
 
 Phase 4 – Maps & Location
 
@@ -40,9 +47,15 @@ Location permissions
 
 Directions & Routing (Google Maps API)
 
+
+
+
 Phase 5 – Real-time Features
 
 WebSockets / Socket.io (driver location, ride updates)
+
+
+
 
 Phase 6 – UI / Animations / Extras
 
