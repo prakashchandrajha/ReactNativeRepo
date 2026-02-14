@@ -1,9 +1,5 @@
 Phase 1 – Basics
 
-Environment setup (Expo CLI / React Native CLI)
-
-JSX & Components (Functional & Class)
-
 Props & State (useState)
 
 useEffect (lifecycle & API calls)

@@ -1,11 +1,36 @@
-import { Text, View } from "react-native"
+// import { Text, View } from "react-native"
 
-const App=()=>{
-  return(
-    <View>
-      <Text>hello world</Text>
-    </View>
-  )
-}
+// const App=()=>{
+//   return(
+//     <View>
+//       <Text>hello world</Text>
+//     </View>
+//   )
+// }
 
-export default App
+// export default App
+
+
+
+// we will cover these topic one by one to master react native our main goal is after complete this will make app like ola uber 
+
+// start with 1st topic 3. Props & State (`useState`)
+// but example and all thing will be like real life project 
+// how thing work how we actual deal with it 
+
+// coz in tutorial they pick very very easy example and finish it but real world project using thing diffrently 
+// we will run as per market standards 
+
+// covery easy and real life problem so that better undertanding 
+// or take example related to ola uber booking type 
+// easy also so that understand 1ft 
+
+// use hineng words 
+
+// start now 
+
+
+netstat -ano | findstr :8081
+
+
+taskkill /F /PID 16840
